@@ -1,5 +1,11 @@
 ### About to graduate:school:.
 
+---
+
+[![LebranceBW's GitHub stats](https://github-readme-stats.vercel.app/api?username=LebranceBW)](https://github.com/LebranceBW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LebranceBW&layout=compact)](https://github.com/LebranceBW/github-readme-stats)
+
+
 <!--
 **LebranceBW/LebranceBW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
