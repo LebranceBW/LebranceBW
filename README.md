@@ -1,4 +1,4 @@
-### ~~Working~~(Actualling slack off) in ~~ZhiHu:~~ Banma Alibaba.
+### ~~Working~~(Actualling slack off) in ~~ZhiHu:~~ ~~Banma Alibaba~~ ByteDance.
 
 ---
 
